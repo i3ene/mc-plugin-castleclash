@@ -1,0 +1,7 @@
+name: CastleClash
+version: '${project.version}'
+main: de.nanoinsel.castleclash.CastleClash
+api-version: 1.18
+commands:
+  cc:
+    aliases: ["castleclash"]

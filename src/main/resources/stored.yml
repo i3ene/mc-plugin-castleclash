@@ -1,0 +1,88 @@
+lobby:
+  position:
+    ==: org.bukkit.Location
+    world: world_castleclash
+    x: 0
+    y: 0
+    z: 0
+    pitch: 0
+    yaw: 0
+teams:
+  red:
+    position:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+    bossPosition:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+  blue:
+    position:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+    bossPosition:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+  yellow:
+    position:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+    bossPosition:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+  green:
+    position:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+    bossPosition:
+      ==: org.bukkit.Location
+      world: world_castleclash
+      x: 0
+      y: 0
+      z: 0
+      pitch: 0
+      yaw: 0
+boss:
+  health: 20.0
+area:
+  list:
+  type:
+    BUILDING:
+      blocks:
+        - BEDROCK
+        - DIAMOND_BLOCK
+        - GOLD_BLOCK
